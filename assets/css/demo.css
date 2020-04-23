@@ -372,9 +372,6 @@
     padding: 0px 30px;
     text-align: center;
 }
-.blurred-container .motto .no-right-border{
-    border-right: none;
-}
 
 @media (max-width: 768px){
     .blurred-container .motto{
